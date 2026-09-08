@@ -1,4 +1,4 @@
-HACKII PANEL SYSTEM - FINAL PACKAGE
+HACKII SCAM - FINAL PACKAGE
 
 Structure:
 - public/index.html : frontend
